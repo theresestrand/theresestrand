@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theresestrand
 - 👀 I’m interested in maths
 - 🌱 I’m currently learning Github and more maths
-<!--- - 💞️ I’m looking to collaborate on ??? --->
 - 📫 How to reach me: e-mail
+<!--- - 💞️ I’m looking to collaborate on ??? --->
 
 <!---
 theresestrand/theresestrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
